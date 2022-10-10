@@ -9,7 +9,7 @@ The game was called, "The Happiest I Had Ever Been," and had her play as me thro
 The game had been written using the Godot game engine and Aseprite to make the artwork. The game's source code was written in GDScript, which is a Python derivative.
 
 ## What you'll find in this repository
-This repository serves as a backup for what little I was able to recover of the project. I plan to remake the game at some point, so it will be useful to have easy access to the songs, art style etc.
+This repository serves as a backup for what little I was able to recover of the project. I plan to remake the game at some point, so it will be useful to have easy access to the songs, art style etc. As I remake the game, more will be added to this repo.
 
 ### License
 All Rights Reserved
